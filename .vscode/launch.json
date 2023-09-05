@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open data1200-a1.html",
-            "file": "/Users/nidura/github-classroom/OsloMet-web/1stOblig-Gruppe18/data1200-a1.html"
+            "name": "Open index.html",
+            "file": "/Users/nnabii/github-classroom/OsloMet-web/1stOblig-Gruppe18/index.html"
         }
     ]
 }
